@@ -1,0 +1,2 @@
+# ssg-sandbox
+Basic Practice
